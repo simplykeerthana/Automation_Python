@@ -11,4 +11,5 @@ Description: A simple chat like interface that will take commands (probably plai
 
 Task 3: Dectecting Fake Instagram Profiles by creating a deep learning model. 
 
-Description: Will be building a deep neural networks to detect fake instagram accounts. 
+Description: Will be building a deep neural networks to detect fake instagram accounts. Spam accounts are a major problem in every social media platform, it is often used for various social engineering purposes. In this notebook, i will use Kaggle instagram-fake-spammer-genuine-accounts dataset. The input features will be: profile pics, fullnname, descriptions, account status (private/public), posts, followers and etc. The output will say if its fake or not.
+
