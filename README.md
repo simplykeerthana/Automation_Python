@@ -13,3 +13,5 @@ Task 3 (Completed): Dectecting Fake Instagram Profiles by creating a deep learni
 
 Description: Will be building a deep neural networks to detect fake instagram accounts. Spam accounts are a major problem in every social media platform, it is often used for various social engineering purposes. In this notebook, i will use Kaggle instagram-fake-spammer-genuine-accounts dataset. The input features will be: profile pics, fullnname, descriptions, account status (private/public), posts, followers and etc. The output will say if its fake or not.
 
+
+Task 4: Fake News Detection using Tensorflow by training a deep neural networks to classify fake news articles. I will be using the good old TF-IDF vectorization technique
